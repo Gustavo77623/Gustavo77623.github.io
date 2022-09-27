@@ -6,7 +6,7 @@
   <link href="http://gustavo77623.github.io/atom.xml" rel="self"/>
   
   <link href="http://gustavo77623.github.io/"/>
-  <updated>2022-04-07T00:32:57.969Z</updated>
+  <updated>2022-09-27T12:35:44.569Z</updated>
   <id>http://gustavo77623.github.io/</id>
   
   <author>
@@ -17,19 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>Fuck the World (?)</title>
     <link href="http://gustavo77623.github.io/2022/04/07/hello-world/"/>
     <id>http://gustavo77623.github.io/2022/04/07/hello-world/</id>
-    <published>2022-04-07T02:41:10.390Z</published>
-    <updated>2022-04-07T00:32:57.969Z</updated>
+    <published>2022-04-07T02:41:00.000Z</published>
+    <updated>2022-09-27T12:35:44.569Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome!"></a>Welcome!</h1><p>Welcome to Gustavo的homo不喵屋&#x3D;v&#x3D;(<a href="https://gustavo77623.tk/">https://gustavo77623.tk/</a>) ! 你問這是啥？當然事私の very first post！ 想看涩图 (bushi)就去archieve區找啊kora！ If you get any problem when browsing my blog, I would be not ごめん but can do fuckin’ nothing for you or you can 順著網綫來打我啊哼哼哼啊啊啊啊啊啊啊啊啊啊啊.</p><p>Below is the very old version of this demo post, used for reminding someone to edit and manage this blog (so you can just ignore the rest of this post).</p><p>First this is a test for new trick, feel free! (The page below is hidden.)</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server <span class="comment">##偷懒！hexo s！</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate <span class="comment">##想偷懒直接hexo g即可</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy <span class="comment">##亦可简写为hexo d</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">&lt;h1 id=&quot;Welcome&quot;&gt;&lt;a href=&quot;#Welcome&quot; class=&quot;headerlink&quot; title=&quot;Welcome!&quot;&gt;&lt;/a&gt;Welcome!&lt;/h1&gt;&lt;p&gt;Welcome to Gustavo的homo不喵屋&amp;#x3D;v&amp;#x3D;(&lt;a href=&quot;https://gustavo77623.tk/&quot;&gt;https://gustavo77623.tk/&lt;/a&gt;) ! 你問這是啥？當然事私の very first post！ 想看涩图 (bushi)就去archieve區找啊kora！ If you get any problem when browsing my blog, I would be not ごめん but can do fuckin’ nothing for you or you can 順著網綫來打我啊哼哼哼啊啊啊啊啊啊啊啊啊啊啊.&lt;/p&gt;
+&lt;p&gt;Below is the very old version of this demo post, used for reminding someone to edit and manage this blog (so you can just ignore the rest of this post).&lt;/p&gt;
+&lt;p&gt;First this is a test for new trick, feel free! (The page below is hidden.)&lt;/p&gt;</summary>
     
     
     
